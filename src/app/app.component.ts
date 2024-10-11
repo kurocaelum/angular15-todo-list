@@ -1,3 +1,8 @@
+/*
+Projeto referencia no git
+https://github.com/troquatte/curso-angular-to-do-list?tab=readme-ov-file
+*/
+
 import { Component } from '@angular/core';
 
 @Component({
