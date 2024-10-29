@@ -1,4 +1,6 @@
 import { Component, OnInit } from '@angular/core';
+
+// Interface
 import { TaskList } from '../../model/task-list';
 
 @Component({
